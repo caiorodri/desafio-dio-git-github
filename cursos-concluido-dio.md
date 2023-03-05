@@ -1,4 +1,3 @@
-
 # Meus Cursos Concluidos da DIO
 
 - [Desenvolvimento básico em Java (395FE0CD)](https://www.dio.me/certificate/395FE0CD/share)
@@ -16,3 +15,7 @@
 - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (ADB7AD39)](https://www.dio.me/certificate/ADB7AD39/share)
 - [Princípios de Desenvolvimento de Software (D77D68EC)](https://www.dio.me/certificate/D77D68EC/share)
 - [Dominando IDEs Java (FBD3C66A)](https://www.dio.me/certificate/FBD3C66A/share)
+- [Aprendendo a Sintaxe Java (36766F63)](https://www.dio.me/certificate/36766F63/share)
+- [Lógica Condicional e Controle de Fluxos em Java (560A7503)](https://www.dio.me/certificate/560A7503/share)
+- [Introdução a Banco de Dados (9A08EDE3)](https://www.dio.me/certificate/9A08EDE3/share)
+- [Estruturas de Repetição e Arrays em Java (14B03ED8)](https://www.dio.me/certificate/14B03ED8/share)
