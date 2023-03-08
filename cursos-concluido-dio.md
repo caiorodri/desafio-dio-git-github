@@ -19,3 +19,7 @@
 - [Lógica Condicional e Controle de Fluxos em Java (560A7503)](https://www.dio.me/certificate/560A7503/share)
 - [Introdução a Banco de Dados (9A08EDE3)](https://www.dio.me/certificate/9A08EDE3/share)
 - [Estruturas de Repetição e Arrays em Java (14B03ED8)](https://www.dio.me/certificate/14B03ED8/share)
+- [Entendendo Métodos Java(A71DD44A)](https://www.dio.me/certificate/A71DD44A/share)
+- [Dominando Algoritmos Básicos com Desafios de Código Java(F85B751F)](https://www.dio.me/certificate/F85B751F/share)
+- [Primeiros Passos com SQL(FF369B1C)](https://www.dio.me/certificate/FF369B1C/share)
+- [Introdução ao MongoDB e Bancos de Dados NoSQL(24BCAB7F)](https://www.dio.me/certificate/24BCAB7F/share)
