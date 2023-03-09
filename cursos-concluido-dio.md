@@ -23,3 +23,4 @@
 - [Dominando Algoritmos Básicos com Desafios de Código Java(F85B751F)](https://www.dio.me/certificate/F85B751F/share)
 - [Primeiros Passos com SQL(FF369B1C)](https://www.dio.me/certificate/FF369B1C/share)
 - [Introdução ao MongoDB e Bancos de Dados NoSQL(24BCAB7F)](https://www.dio.me/certificate/24BCAB7F/share)
+- [Programação Orientada a Objetos com Java(60719CF5)](https://www.dio.me/certificate/60719CF5/share)
