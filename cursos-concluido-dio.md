@@ -30,3 +30,6 @@
 - [Introdução ao MongoDB e Bancos de Dados NoSQL(24BCAB7F)](https://www.dio.me/certificate/24BCAB7F/share)
 - [Programação Orientada a Objetos com Java(60719CF5)](https://www.dio.me/certificate/60719CF5/share)
 - [Trabalhando com Collections Java (F27C910D)](https://www.dio.me/certificate/F27C910D/share)
+- [Debugging Java (973D87C1)](https://www.dio.me/certificate/973D87C1/share)
+- [Estrutura de dados em Java (8E7D94F9)](https://www.dio.me/certificate/8E7D94F9/share)
+- [Conhecendo a Linguagem de Programação Java (B823714E)](https://www.dio.me/certificate/B823714E/share)
